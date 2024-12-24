@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+  "$basetexture" "custom/logscreen"
+  "$translucent" "1"
+    "$alpha" 0.5
+    "$Additive" 1
+	"$texturefilter" "Anisotropic"
+	"$selfillum" 0
+
+}

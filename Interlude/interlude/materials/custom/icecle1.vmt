@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "custom/icecle1"
+	"%compilepassbullets" 1
+	"$translucent" 1
+}

@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+  "$basetexture" "custom/log2"
+  "$additive" "1"
+  "%keywords" "custom"
+  "$alpha" 0.5
+  "$texturefilter" "Anisotropic"
+  "$selfillum" 0
+
+}
+  //"$alpha" 0.5
+  //"%keywords" "custom"
+  //"$texturefilter" "Anisotropic"
+  //"$selfillum" 0

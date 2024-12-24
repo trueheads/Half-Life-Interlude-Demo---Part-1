@@ -1,0 +1,10 @@
+"UnlitGeneric"
+
+{
+"$Translucent" 1
+"$baseTexture" "custom/logoverlay"
+"$alpha" 0.5
+  "$Additive" 1
+  "$texturefilter" "Anisotropic"
+  "$selfillum" 0
+}

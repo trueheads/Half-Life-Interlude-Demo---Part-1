@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "custom/barney_monitor"
+	"Proxies"
+	{
+        "AnimatedTexture"
+        {
+            "animatedTextureVar" "$basetexture"
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate" "5"
+        }
+    }
+}

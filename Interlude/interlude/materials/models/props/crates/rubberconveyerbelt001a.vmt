@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "props/rubberconveyerbelt001a"
+	"$surfaceprop" "rubber"
+}

@@ -1,0 +1,31 @@
+@include "base.fgd"
+@include "halflife2.fgd"
+
+@PointClass base(BasePropPhysics) studioprop() = prop_physics_ignitable : "Physics Prop capable of being ignited."
+[
+	BurnTimeUntilBreak(float) : "Burn Time Until Break" : -1 : "How long (in seconds) until the object breaks. Use -1 to make indestructible."
+	IgniteSound(sound): "Ignite Sound": "Interlude.Object.Ignite"
+	BurningSound(sound): "Burning Sound": ""
+	ExtinguishSound(sound): "Extinguish Sound": "Interlude.Object.Extinguish"
+
+	input IgniteProp(void): "Ignites the prop, allowing it to spread to other ignitable props."
+	input ExtinguishProp(void): "Extinguishes the fire on the prop."
+
+	output OnBurned(void): "Fires when object is completely burned."
+	output OnPropIgnited(void): "Fires when object is ignited."
+	output OnPropExtinguished(void): "Fires when object is extinguished."
+]
+
+@NPCClass base(BaseNPC) studio("models/Zombie/Classic.mdl") = npc_zombie : "Zombie"
+[
+	model(studio) : "Model" : "models/zombie/classic.mdl"
+	skin(integer) : "Skin" : 0 : "Some models have multiple versions of their textures, called skins. Set this to a number other than 0 to use that skin instead of the default."
+	TorsoModel(studio) : "Torso Model" : "models/zombie/classic_torso.mdl" : "Upper Body model of the zombie when getting split in half"
+	LegsModel(studio) : "Legs Model" : "models/zombie/classic_legs.mdl" : "Lower Body model of the zombie when getting split in half"
+]
+
+@NPCClass base(BaseNPC) studio("models/Zombie/Classic_torso.mdl") = npc_zombie_torso : "Zombie Torso"
+[
+	model(studio) : "Model" : "models/zombie/classic_torso.mdl"
+	skin(integer) : "Skin" : 0 : "Some models have multiple versions of their textures, called skins. Set this to a number other than 0 to use that skin instead of the default."
+]

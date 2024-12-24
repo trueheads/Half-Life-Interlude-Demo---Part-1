@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+"$basetexture" "custom/hudsnowicon"
+$translucent "1"
+$detail "custom/log1"
+$detailscale "0"
+$color2 "[2.5 2.5 2.5]"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+
+{
+"$translucent" 1
+"$basetexture" "custom/barbedwire_b"
+"$nocull" 1
+}

@@ -1,0 +1,11 @@
+"UnlitGeneric"
+
+{
+"$Translucent" 1
+"$baseTexture" "custom/icestream"
+"$alpha" 0.1
+  "$Additive" 1
+  "$texturefilter" "Anisotropic"
+  "$selfillum" 0
+  "$scroll1" "50 50"
+}

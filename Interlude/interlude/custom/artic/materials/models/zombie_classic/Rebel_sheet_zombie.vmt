@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zombie_classic/Rebel_sheet_zombie"
+	"$bumpmap" "models/zombie_classic/Rebel_sheet_zombie_normal"
+	"$model" "1"
+	"$phong" "1"
+	"$phongboost" "1"
+    "$halflambert" "1"
+    "$phongexponenttexture" "models/zombie_classic/zombie_classic_phong"
+    "$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[0.1 .5  1]"
+	"$phongexponent" 30
+}

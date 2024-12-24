@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props/material_25"
+	"$basemapalphaphongmask" "1"	                           
+	"$phong" "1"
+	"$phongboost" "0.8"
+	"$halflambert" "1"
+	"$phongexponent" "100"							
+	"$phongfresnelranges"	"[.1 .5 1.0]"
+}

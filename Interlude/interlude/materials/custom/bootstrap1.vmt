@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$Translucent" 1
+	$additive
+	$nocull
+	"$basetexture" "custom/bootstrap1"
+}

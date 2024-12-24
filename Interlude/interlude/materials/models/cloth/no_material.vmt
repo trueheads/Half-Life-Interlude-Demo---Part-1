@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$alphatest" 1
+	"$basetexture" "models/cloth/no_material"
+	"$nocull" 1
+}

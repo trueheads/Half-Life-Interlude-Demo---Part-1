@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/radar_text"
+	"$translucent" "1"
+}

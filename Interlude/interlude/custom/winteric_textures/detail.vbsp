@@ -1,0 +1,104 @@
+detail
+{
+	
+	forest_floor_01
+	//for Ep2
+	{
+		"density" "450.0"
+
+		Group1
+		{
+			"alpha" "0"
+
+		}
+
+		Group2
+		{
+	
+			"alpha" "1"
+		}
+	}
+
+
+
+	canal_reeds2
+	{
+		"density" "750.0"
+
+
+		Group1
+		{
+	
+			"alpha" "0.0"
+		}
+		Group2
+		{
+	
+			"alpha" "0.2"
+		}
+		Group2a
+		{
+	
+			"alpha" "0.35"
+		}
+		Group3
+		{
+	
+			"alpha" "0.75"
+		}
+		Group4
+		{
+			"alpha" "1.0"
+			
+		}
+	}
+
+
+	redgrass_alt
+	//alt version for ep2
+	{
+		"density" "500.0"
+
+		Group1
+		{
+			"alpha" "0"
+			
+		}
+
+		Group2
+		{
+	
+			"alpha" "1"
+		}
+	}
+
+	citygrass_light
+	{
+		"density" "400.0"
+
+		Group1
+		{
+			"alpha" "1"
+
+		}
+
+		Group3
+		{
+			"alpha" "0.5"
+		}
+
+		Group4
+		{
+			"alpha" "0.3"
+
+		}
+
+		Group5
+		{
+			"alpha" "0.0"
+
+		}
+	}
+
+
+}

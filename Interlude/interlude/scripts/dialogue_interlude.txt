@@ -1,0 +1,9 @@
+"Interlude.Dialogue.Barney.MonitorOne"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"pitch"			"100"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"vo/barney/barney_monitor_take1.wav"
+}

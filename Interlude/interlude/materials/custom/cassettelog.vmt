@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+  "$basetexture" "custom/cassettelog"
+  "$surfaceprop" "glass"
+  "$translucent" "1"
+  "%keywords" "custom"
+  "$alpha" 0.5
+  "$Additive" 1
+  "$texturefilter" "Anisotropic"
+  "$selfillum" 0
+
+}

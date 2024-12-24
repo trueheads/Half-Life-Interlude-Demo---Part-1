@@ -1,0 +1,20 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons. 
+
+// Addoninfo copied from Alien Swarm. No sign of using it, but still... [str]
+ 
+"AddonInfo"
+{
+     addonSteamAppID         420
+     addontitle              "Winter Textures"
+     addonversion            1.0
+     addontagline            "Winter outland textures for Half-Life 2 Episode Two."
+     addonauthor             "Strider[RUS]"
+     addonSteamGroupName     ""
+     addonauthorSteamID      "76561197996725578" 		// http://steamcommunity.com/id/stan-riders/
+     addonContent_Campaign   0
+     addonURL0               "http://www.moddb.com/mods/winteric-textures/"
+ 
+     // short description that appears in the Add-on list screen...
+     addonDescription        "Winter outland textures for Half-Life 2 Episode Two." 
+
+}

@@ -1,0 +1,19 @@
+"Interlude.Object.Ignite"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"pitch"			"90,110"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"ambient/fire/mtov_flame2.wav"
+}
+
+"Interlude.Object.Extinguish"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.65"
+	"pitch"			"90,110"
+	"soundlevel"		"SNDLVL_NORM"
+
+	"wave"			"ambient/levels/canals/toxic_slime_sizzle3.wav"
+}

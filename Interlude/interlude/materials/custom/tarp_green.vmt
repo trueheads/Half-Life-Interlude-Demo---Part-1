@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "custom/tarp_green"
+    "$alphatest" "1"
+}

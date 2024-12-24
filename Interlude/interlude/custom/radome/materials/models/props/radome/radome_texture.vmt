@@ -1,0 +1,5 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/props/radome/radome_texture"
+	"$Translucent" 1
+}

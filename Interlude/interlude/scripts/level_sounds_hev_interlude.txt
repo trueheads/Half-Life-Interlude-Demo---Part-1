@@ -1,0 +1,9 @@
+"HEV.subzero"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.75"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"hev/subzero.wav"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/whaling_town_factory_skybox"
+		"$translucent" "1"
+}

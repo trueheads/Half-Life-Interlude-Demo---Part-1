@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models/props/headcrabs/tall/headcrab_bake_with_textures"
+    "$surfaceprop" "flesh"
+}

@@ -1,0 +1,59 @@
+"Interlude.Songs.AdvisoryCaution"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/AdvisoryCaution.mp3"
+}
+
+"Interlude.Songs.AdvisoryCaution_Channel"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/AdvisoryCaution_Channel.mp3"
+}
+
+"Interlude.Songs.CognitiveDissonance"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/CognitiveDissonance.mp3"
+}
+
+"Interlude.Songs.VortalSolstice"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/VortalSolstice.mp3"
+}
+
+"Interlude.Songs.VortalPlea"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/VortalPlea.mp3"
+}
+
+"Interlude.Songs.TundralWave"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.5"
+	"pitch"			"100"
+	"soundlevel"		"0"
+
+	"wave"			"*#music/TundralWave.mp3"
+}
